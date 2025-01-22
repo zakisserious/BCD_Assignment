@@ -14,7 +14,7 @@ Sectors:
 3) Medical goods supply chain transparency
 4) Medical device management
 5) Health insurance claims and settlements
-   #Part 2
+#Part 2
 Upon the investigation performed above, develop the solution considering the concept
 of Blockchain to produce a distributed ledger. This ledger should be replicated across
 all the participating nodes in the distributed environment. Thus, each node has a copy
